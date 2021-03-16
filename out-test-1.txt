@@ -1,0 +1,83 @@
+Queues Simulator:
+
+Time 0
+Waiting clients:(1, 5, 3) (2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: closed
+Queue2: closed
+
+Time 1
+Waiting clients:(1, 5, 3) (2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: closed
+Queue2: closed
+
+Time 2
+Waiting clients:(1, 5, 3) (2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: closed
+Queue2: closed
+
+Time 3
+Waiting clients:(1, 5, 3) (2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: closed
+Queue2: closed
+
+Time 4
+Waiting clients:(1, 5, 3) (2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: closed
+Queue2: closed
+
+Time 5
+Waiting clients:(2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: (1, 5, 3) 
+Queue2: closed
+
+Time 6
+Waiting clients:(2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: (1, 5, 2) 
+Queue2: closed
+
+Time 7
+Waiting clients:(2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: (1, 5, 1) 
+Queue2: closed
+
+Time 8
+Waiting clients:(2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: closed
+Queue2: closed
+
+Time 9
+Waiting clients:(2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: closed
+Queue2: closed
+
+Time 10
+Waiting clients:(2, 11, 4) (3, 14, 4) (0, 15, 3) 
+Queue1: closed
+Queue2: closed
+
+Time 11
+Waiting clients:(3, 14, 4) (0, 15, 3) 
+Queue1: (2, 11, 4) 
+Queue2: closed
+
+Time 12
+Waiting clients:(3, 14, 4) (0, 15, 3) 
+Queue1: (2, 11, 3) 
+Queue2: closed
+
+Time 13
+Waiting clients:(3, 14, 4) (0, 15, 3) 
+Queue1: (2, 11, 2) 
+Queue2: closed
+
+Time 14
+Waiting clients:(0, 15, 3) 
+Queue1: (2, 11, 1) 
+Queue2: (3, 14, 4) 
+
+Time 15
+Waiting clients:
+Queue1: (0, 15, 3) 
+Queue2: (3, 14, 3) 
+
+Average waiting time: 3.5
